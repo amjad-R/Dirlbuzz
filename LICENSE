@@ -1,0 +1,20 @@
+Copyright (c) 2024-2026 Amjad Ben Essafi. All rights reserved.
+
+This repository is published so that the code can be read and reviewed.
+It is not open source.
+
+You may view the source code and run it locally for the purpose of
+evaluating it. Without prior written permission from the copyright holder
+you may not:
+
+  - use the code, in whole or in part, in another product or service;
+  - copy, modify, merge, publish, distribute, sublicense or sell it;
+  - deploy it as a hosted service.
+
+Third-party components keep their own licenses. This includes the Laravel
+framework and the packages listed in backend/composer.json, the libraries
+loaded from CDNs by the front end, and the icons in frontend/assets/img.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+Contact: amjadbenessafi1@gmail.com
